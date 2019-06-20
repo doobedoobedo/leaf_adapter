@@ -1,0 +1,251 @@
+Cmp-Mod V01 Created by PcbNew   date = Tue 21 May 2019 01:09:33 BST
+
+BeginCmp
+TimeStamp = 5CE3B683
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_5.3mm_M5;
+IdModule  = Mounting_Holes:MountingHole_5.3mm_M5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE3236E
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_5.3mm_M5;
+IdModule  = Mounting_Holes:MountingHole_5.3mm_M5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE1AEA1
+Path = /5CDDCB90
+Reference = JP5;
+ValeurCmp = Conn_02x13_Odd_Even;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x13_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE19AD2
+Path = /5CDDD5D8
+Reference = CN151;
+ValeurCmp = Conn_01x12;
+IdModule  = GT8E:GT8E-12DP-DS;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE1B970
+Path = /5CDC9EDF
+Reference = C1;
+ValeurCmp = 1uf;
+IdModule  = Capacitors_ThroughHole:C_Disc_D3.0mm_W1.6mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE1AC26
+Path = /5CDCA0F6
+Reference = C2;
+ValeurCmp = 1uf;
+IdModule  = Capacitors_ThroughHole:C_Disc_D3.0mm_W1.6mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE19AA0
+Path = /5CDDCD08
+Reference = CN001;
+ValeurCmp = Conn_02x20_Odd_Even;
+IdModule  = Leaf:1939561-3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE19AB4
+Path = /5CDDCFAA
+Reference = CN101;
+ValeurCmp = Conn_01x05;
+IdModule  = GT8E:GT8E-5P-DS;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE19AF5
+Path = /5CDDD18C
+Reference = CN501;
+ValeurCmp = Conn_01x16;
+IdModule  = GT8E:GT8E-16DP-DS;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE19B0F
+Path = /5CDDD443
+Reference = CN601;
+ValeurCmp = Conn_01x08;
+IdModule  = GT8E:GT8E-8P-DS;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE19B31
+Path = /5CDDC6C8
+Reference = IC1;
+ValeurCmp = SN74F00;
+IdModule  = Housings_DIP:DIP-14_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE19B54
+Path = /5CDDC9FE
+Reference = JP3;
+ValeurCmp = Conn_02x07_Odd_Even;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x07_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE3E423
+Path = /5CDE1865
+Reference = JP4;
+ValeurCmp = Conn_02x08_Odd_Even;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x08_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE1B14B
+Path = /5CDCA1F5
+Reference = R1;
+ValeurCmp = 120R;
+IdModule  = Resistors_ThroughHole:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE1B224
+Path = /5CDCA277
+Reference = R2;
+ValeurCmp = Rk;
+IdModule  = Resistors_ThroughHole:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE1B239
+Path = /5CDCA2A5
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = Resistors_ThroughHole:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE1B24E
+Path = /5CDCA2C7
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = Resistors_ThroughHole:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE1B911
+Path = /5CDCA2ED
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = Resistors_ThroughHole:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE1B278
+Path = /5CDCA33D
+Reference = R7;
+ValeurCmp = 47k;
+IdModule  = Resistors_ThroughHole:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE1B28D
+Path = /5CDCA36B
+Reference = R8;
+ValeurCmp = 47k;
+IdModule  = Resistors_ThroughHole:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE1B2A2
+Path = /5CDCA397
+Reference = R9;
+ValeurCmp = 1k;
+IdModule  = Resistors_ThroughHole:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE1B2B7
+Path = /5CDCA3D1
+Reference = R10;
+ValeurCmp = 1k2;
+IdModule  = Resistors_ThroughHole:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE32A60
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_5.3mm_M5;
+IdModule  = Mounting_Holes:MountingHole_5.3mm_M5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE3341A
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_5.3mm_M5;
+IdModule  = Mounting_Holes:MountingHole_5.3mm_M5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE3ED89
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_5.3mm_M5;
+IdModule  = Mounting_Holes:MountingHole_5.3mm_M5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE3BDBF
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_5.3mm_M5;
+IdModule  = Mounting_Holes:MountingHole_5.3mm_M5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE3BE63
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_5.3mm_M5;
+IdModule  = Mounting_Holes:MountingHole_5.3mm_M5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE3BF09
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = Mounting_Holes:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE3BF9B
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = Mounting_Holes:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE3C02C
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = Mounting_Holes:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE3C0BE
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = Mounting_Holes:MountingHole_3.2mm_M3;
+EndCmp
+
+EndListe

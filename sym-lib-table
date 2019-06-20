@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name leaf_adapter)(type Legacy)(uri /home/ron/mod/kicad/leaf_adapter/leaf_adapter.lib)(options "")(descr ""))
+)
